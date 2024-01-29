@@ -18,7 +18,7 @@ npm install
 
 Run your sql server (You can use Xampp for that) and create a database.
 
-Make a file with name ```bash .env ``` in the project folder.
+Make a file with name ```.env ``` in the project folder.
 
 Add all these variables according to your sql server. 
 ```bash
