@@ -22,17 +22,17 @@ Make a file with name ```.env ``` in the project folder.
 
 Add all these variables according to your sql server. 
 ```bash
-HOST='' > default localhost
+HOST='' //default localhost
 DATABASE='' 
 PASSWORD=''
-USER='' > default root
-DIALECT='' > default mysql
+USER='' //default root
+DIALECT='' //default mysql
 ```
 ### Step 3
 
 Open terminal and write this command
 ```bash
-npm start > Start script is written in package.json
+npm start //Start script is written in package.json
 ```
 
 If that doen't work, then write
